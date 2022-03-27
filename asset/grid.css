@@ -286,7 +286,7 @@
         text-align: center;
     }
 }
-@media screen and (max-width:356px){
+@media screen and (max-width:385px){
     .main-part .main-title h1{
         font-size: 30px !important;
     }
